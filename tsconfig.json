@@ -5,12 +5,10 @@
     "baseUrl": ".",
     "paths": {
       "@": ["./src"],
-      "@screens/*": ["./src/screens/*"],
       "@components/*": ["./src/components/*"],
       "@hooks/*": ["./src/hooks/*"],
       "@apis/*": ["./src/apis/*"],
       "@utils/*": ["./src/utils/*"],
-      "@config/*": ["./src/config/*"],
       "@const/*": ["./src/consts/*"],
       "@assets/*": ["./src/assets/*"],
       "@types/*": ["./src/types/*"],
